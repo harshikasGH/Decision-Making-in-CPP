@@ -1,18 +1,18 @@
-# 💻 Decision Making in C++
+# Decision Making in C++
 
-## 🎯 Aim  
+## Aim  
 To explore key decision-making structures in C++ including if else, if else if ladder, and switch case through foundational examples like checking odd or even, finding the largest of three numbers, identifying vowels or consonants, and using switch statements.
 
 ---
 
-## 📚 Theory
+## Theory
 
 - Conditional statements control the flow of execution based on evaluated conditions, allowing for dynamic and flexible logic handling.  
 - These constructs are crucial for enabling programs to “think” and respond to input or state variations.
 
 ---
 
-## 🔄 If Else Statement
+## If Else Statement
 
 The if else structure allows a program to make a binary decision.  
 If a condition evaluates as true, one block of code is executed; otherwise, the alternate block runs.  
@@ -20,7 +20,7 @@ It is useful for simple yes or no logic checks where you’re choosing between t
 
 ---
 
-## 🧭 If Else If Else Ladder
+## If Else If Else Ladder
 
 This expands decision making to multiple conditions.  
 The program evaluates conditions sequentially from top to bottom.  
@@ -30,7 +30,7 @@ Ideal for layered logic where multiple outcomes are possible.
 
 ---
 
-## 🎚️ Switch Case Statement
+## Switch Case Statement
 
 The switch case structure offers a cleaner alternative to multiple if checks when you're dealing with discrete values such as menu options or fixed states.  
 It matches the value of a variable against predefined cases and executes the matched case block.  
@@ -38,9 +38,9 @@ A default case handles anything that doesn’t fit the listed options.
 
 ---
 
-## 📋 Algorithms
+## Algorithms
 
-### ✅ Odd or Even Number Detection
+### Odd or Even Number Detection
 
 1. Start  
 2. Declare an integer variable `num`  
@@ -53,7 +53,7 @@ A default case handles anything that doesn’t fit the listed options.
 
 ---
 
-### ✅ Largest of Three Numbers
+### Largest of Three Numbers
 
 1. Start  
 2. Declare three integer variables `a`, `b`, and `c`  
@@ -67,7 +67,7 @@ A default case handles anything that doesn’t fit the listed options.
 
 ---
 
-### ✅ Vowel or Consonant Using ASCII
+### Vowel or Consonant Using ASCII
 
 1. Start  
 2. Declare a character variable `ch`  
@@ -82,7 +82,7 @@ A default case handles anything that doesn’t fit the listed options.
 
 ---
 
-### ✅ Month Selector Using Switch Case
+### Month Selector Using Switch Case
 
 1. Start  
 2. Declare an integer variable `choice`  
@@ -96,7 +96,7 @@ A default case handles anything that doesn’t fit the listed options.
 
 ---
 
-## 🧠 Conclusion
+## Conclusion
 
 Decision making is at the heart of intelligent programming.  
 Whether you're branching logic with if else, scaling conditions with else if ladders, or simplifying options via switch case, mastering these structures equips you to write smarter and more dynamic code.  
